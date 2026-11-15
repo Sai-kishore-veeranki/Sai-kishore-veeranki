@@ -212,7 +212,7 @@ flowchart LR
 
 </details>
 
-> 🔗 Link each project title to its repo (replace with your exact repo URLs).
+
 
 ---
 
@@ -262,7 +262,7 @@ timeline
          : Looking for the next challenge
 ```
 
-> ✏️ The month and year placement above is approximate. Adjust it to your real dates.
+
 
 ---
 
